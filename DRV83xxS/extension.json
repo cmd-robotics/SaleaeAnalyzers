@@ -1,0 +1,13 @@
+{
+  "name": "DRV8323S SPI",
+  "apiVersion": "1.0.0",
+  "author": "roman",
+  "version": "0.1.0",
+  "description": "TI's DRV8323S SPI traffic analyzer",
+  "extensions": {
+    "DRV8323S": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
